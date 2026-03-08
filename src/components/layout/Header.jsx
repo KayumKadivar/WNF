@@ -3,7 +3,7 @@ import { NavLink, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import studioWnfLogo from "../../assets/studio-wnf-logo.webp.webp";
+import studioWnfLogo from "../../assets/studio-wnf-logo.webp";
 
 const navLinks = [
   { name: "Home", path: "/" },
